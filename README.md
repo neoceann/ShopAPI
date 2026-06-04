@@ -1,7 +1,7 @@
 ![api](images/ShopAPI.png)
 ![api1](images/ShopAPI1.png)
 
-## Реализованы популярные виды HTTP-запросов (GET, POST, DELETE, PATCH).
+## Реализованы популярные виды HTTP-запросов (GET, POST, DELETE, PATCH). Хранение данных реализовано в PostgreSQL.
 
 ### Для клиентов:
 
